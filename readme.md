@@ -51,7 +51,7 @@
     <img src="" >
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="www.linkedin.com/in/shivam-verma-4104a3327" />
   </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://skillicons.dev/icons?i=twitter" />
