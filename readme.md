@@ -47,7 +47,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="[https://shivamcverma.github.io/MYportfolio/#contact](https://shivamcverma.github.io/MYportfolio)">
+  <a href="https://shivamcverma.github.io/MYportfolio">
     <img src="" >
   </a>
   <a href="https://linkedin.com/in/yourprofile">
