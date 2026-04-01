@@ -50,7 +50,7 @@
   <a href="https://shivamcverma.github.io/MYportfolio/#contact">
     <img src="" >
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/shivam-verma-4104a3327">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/yourprofile">
