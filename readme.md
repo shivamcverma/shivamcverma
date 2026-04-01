@@ -47,10 +47,10 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://shivamcverma.github.io/MYportfolio/#contact">
+  <a href="https://shivamcverma.github.io/MYportfolio">
     <img src="" >
   </a>
-  <a href="www.linkedin.com/in/shivam-verma-4104a3327">
+  <a www.linkedin.com/in/shivam-verma-4104a3327">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/yourprofile">
